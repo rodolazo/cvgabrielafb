@@ -12,10 +12,16 @@ body {
   width: 100%;
   margin-bottom: 50px;
  }
+
+ .fondo{
+  background-color: #BBB !important;  
+ }
+
  .navbar-brand {
   display: flex;
   justify-content:flex-end;
  }
+
  #logo {
   width: 10%;
   padding: auto;
